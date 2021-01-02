@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **machine learning, azure and docker**
 
-- 📫 How to reach me **hanifahhadirah@gmail.com**
+- 📫 How to reach me **hhhhperson@gmail.com**
 
 - ⚡ Fun fact **I'm INFJ tbh :')**
 
