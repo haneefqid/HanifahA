@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Hanifah A</h3>
-<h5 align="center">a pathetic nubis kubis Computer Science student based in Malaysia</h5>
+<h5 align="center">a pathetic n0obis k0obis Computer Science student based in Malaysia</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneefqid&label=Profile%20views&color=0e75b6&style=flat" alt="haneefqid" /> </p>
 
 
