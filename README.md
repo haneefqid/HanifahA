@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Hanifah A</h3>
 <h4 align="center">a pathetic n0obis k0obis Computer Science student based in Malaysia</h4><br>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/fo-sho.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-an-issue.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
