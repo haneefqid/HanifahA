@@ -2,10 +2,8 @@
 <h4 align="center">a pathetic nubis Computer Science student based in Malaysia</h4><br>
 
 
-(https://forthebadge.com/images/badges/fo-sho.svg)](https://forthebadge.com)
-(https://forthebadge.com/images/badges/not-an-issue.svg)](https://forthebadge.com)
-(https://forthebadge.com/images/badges/no-ragrets.svg)](https://forthebadge.com)
-(https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
+https://forthebadge.com/images/badges/does-not-contain-msg.svg
+https://forthebadge.com/images/badges/fo-real.svg
 
   
 <p align="center">
