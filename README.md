@@ -1,10 +1,11 @@
 <h3 align="center">Hi 👋, I'm Hanifah A</h3>
 <h4 align="center">a pathetic nubis Computer Science student based in Malaysia</h4><br>
+
 <p align="center">
- [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)<center/>
- [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) 
-</p>
-  
+  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) 
+</p> 
+ 
 <p align="center">
   <img src="https://media1.tenor.com/images/889fb0cf948b25408806d8fd0d9220e3/tenor.gif" />
 </p>
