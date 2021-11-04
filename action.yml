@@ -1,5 +1,5 @@
 - name: Metrics embed
-  uses: lowlighter/metrics@v3.10
+  uses: lowlighter/metrics@v3.15
 
 
 name: Metrics
