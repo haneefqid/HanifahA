@@ -6,7 +6,7 @@
   [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) 
   [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
-  [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
+
 
  
 
