@@ -9,9 +9,7 @@
   [![forthebadge](https://forthebadge.com/images/badges/built-by-codebabes.svg)](https://forthebadge.com)
 
  
-<p align="center">
-  <img src="https://media1.tenor.com/images/889fb0cf948b25408806d8fd0d9220e3/tenor.gif" />
-</p>
+
 <a href="https://app.daily.dev/hanifuh"><img src="https://api.daily.dev/devcards/0009e8fb64594d86a71ec0d919041981.png?r=tgi" width="400" alt="Hanifah A's Dev Card"/></a>
 <br>
 
