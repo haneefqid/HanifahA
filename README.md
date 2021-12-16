@@ -7,7 +7,7 @@
   [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/designed-in-etch-a-sketch.svg)](https://forthebadge.com)
 
-  <script src="https://tryhackme.com/badge/82151"></script>
+ 
 
 <a href="https://app.daily.dev/hanifuh"><img src="https://api.daily.dev/devcards/0009e8fb64594d86a71ec0d919041981.png?r=tgi" width="400" alt="Hanifah A's Dev Card"/></a>
 <br>
