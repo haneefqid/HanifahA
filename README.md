@@ -2,9 +2,9 @@
 <h4 align="center">a pathetic nubis Computer Science student based in Malaysia. Interested in Infosec</h4><br>
 
 
- <div> [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
+  [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
   [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com) 
-  [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)</div>
+  [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 
 
  
