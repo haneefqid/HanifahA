@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Hanifah A</h3>
-<h4 align="center">a pathetic nubis Computer Science student based in Malaysia. Interested in Infosec</h4><br>
+<h4 align="center"> </h4><br>
 
 
   [![forthebadge](https://forthebadge.com/images/badges/does-not-contain-msg.svg)](https://forthebadge.com)
